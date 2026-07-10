@@ -1,0 +1,77 @@
+ERROR-SYMBOL AND VN-PAIR ANALYSIS AT 16.0 dB
+===========================================================================
+
+SIMULATION INFORMATION
+---------------------------------------------------------------------------
+Eb/N0                     : 16.0 dB
+Total generated frames    : 1000000
+Total failed frames       : 11
+Observed frame error rate : 1.100000e-05
+
+1. ERROR SYMBOLS IN EVERY FAILED FRAME
+---------------------------------------------------------------------------
+     Frame   VN index     True symbol  Decoded symbol
+---------------------------------------------------------------------------
+     47070         26               2               6
+     47070         31               7               2
+    146316         26               2               6
+    146316         31               7               2
+    196765         26               2               1
+    196765         31               7               3
+    373618         26               2               1
+    373618         31               7               3
+    527429         22               4               0
+    527429         37               0               6
+    606162         26               2               1
+    606162         31               7               3
+    735780         22               4               5
+    735780         37               0               4
+    752648         22               4               5
+    752648         37               0               4
+    863081         26               2               6
+    863081         31               7               2
+    933103         26               2               1
+    933103         31               7               6
+    980789         22               4               0
+    980789         37               0               6
+
+
+2. VN-PAIR OCCURRENCE SUMMARY
+---------------------------------------------------------------------------
+    Rank       VN 1       VN 2    Pair records   Failed frames
+---------------------------------------------------------------------------
+       1         26         31               7               7
+       2         22         37               4               4
+
+
+3. SYMBOL TRANSITIONS FOR EACH VN PAIR
+---------------------------------------------------------------------------
+
+VN pair (26,31)
+Pair occurrence count : 7
+Failed-frame count    : 7
+
+  VN 26         VN 31         Count   Percentage
+  True->Decoded True->Decoded
+  -------------------------------------------------------
+      2 -> 1        7 -> 3           3       42.86%
+      2 -> 6        7 -> 2           3       42.86%
+      2 -> 1        7 -> 6           1       14.29%
+
+VN pair (22,37)
+Pair occurrence count : 4
+Failed-frame count    : 4
+
+  VN 22         VN 37         Count   Percentage
+  True->Decoded True->Decoded
+  -------------------------------------------------------
+      4 -> 0        0 -> 6           2       50.00%
+      4 -> 5        0 -> 4           2       50.00%
+
+
+4. DOMINANT VN PAIR
+---------------------------------------------------------------------------
+Most frequently observed VN pair : (26,31)
+Number of pair occurrences       : 7
+Number of failed frames          : 7 of 11
+Fraction of failed frames         : 63.64%
