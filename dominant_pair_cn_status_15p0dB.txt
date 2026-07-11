@@ -1,0 +1,131 @@
+DOMINANT VN-PAIR CN-STATUS REPORT
+Eb/N0 = 15.0 dB
+============================================================
+
+Dominant pair: (v_26, v_31)
+Connected CNs: [9 22]
+Number of failed frames: 55
+
+Frame-by-frame CN status:
+------------------------------------------------------------
+Frame 4900: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 7820: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 35180: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 49390: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 51644: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 58444: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 62470: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 65470: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 74305: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 74711: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 81757: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 107523: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 120554: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 142716: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 149543: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 196966: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 237508: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 259208: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 264348: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 294752: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 311137: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 312209: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 336288: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 357714: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 364576: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 367191: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 367520: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 419173: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 424587: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 461521: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 475734: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 477286: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 505262: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 510003: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 511597: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 532217: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 533822: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 544562: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 548962: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 582371: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 591538: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 593820: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 665983: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 671473: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 734883: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 737026: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 775236: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 797718: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 834043: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 840330: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 888093: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 906800: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 910643: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 936668: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 954065: CN 9 = satisfied, CN 22 = UNSATISFIED
+
+CN-status summary:
+------------------------------------------------------------
+CN 9: UNSATISFIED in 28 frames, satisfied in 27 frames
+CN 22: UNSATISFIED in 27 frames, satisfied in 28 frames
+
+============================================================
+
+Dominant pair: (v_22, v_37)
+Connected CNs: [3 21]
+Number of failed frames: 44
+
+Frame-by-frame CN status:
+------------------------------------------------------------
+Frame 40335: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 106515: CN 3 = UNSATISFIED, CN 21 = satisfied
+Frame 134716: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 137598: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 152318: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 172801: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 198875: CN 3 = UNSATISFIED, CN 21 = satisfied
+Frame 244623: CN 3 = UNSATISFIED, CN 21 = satisfied
+Frame 266420: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 315696: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 372250: CN 3 = UNSATISFIED, CN 21 = satisfied
+Frame 379819: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 388636: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 419914: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 470104: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 507604: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 514663: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 534201: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 581565: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 640459: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 658349: CN 3 = UNSATISFIED, CN 21 = satisfied
+Frame 662489: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 693082: CN 3 = UNSATISFIED, CN 21 = satisfied
+Frame 700573: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 718065: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 727299: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 734533: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 738205: CN 3 = UNSATISFIED, CN 21 = satisfied
+Frame 743595: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 747832: CN 3 = UNSATISFIED, CN 21 = satisfied
+Frame 771135: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 778679: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 803053: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 839554: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 845706: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 866533: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 891255: CN 3 = UNSATISFIED, CN 21 = satisfied
+Frame 912381: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 926715: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 927277: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 929641: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 957193: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 982956: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 983009: CN 3 = UNSATISFIED, CN 21 = satisfied
+
+CN-status summary:
+------------------------------------------------------------
+CN 3: UNSATISFIED in 10 frames, satisfied in 34 frames
+CN 21: UNSATISFIED in 34 frames, satisfied in 10 frames
+
+============================================================
+

@@ -1,0 +1,43 @@
+DOMINANT VN-PAIR CN-STATUS REPORT
+Eb/N0 = 16.0 dB
+============================================================
+
+Dominant pair: (v_26, v_31)
+Connected CNs: [9 22]
+Number of failed frames: 7
+
+Frame-by-frame CN status:
+------------------------------------------------------------
+Frame 47070: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 146316: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 196765: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 373618: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 606162: CN 9 = UNSATISFIED, CN 22 = satisfied
+Frame 863081: CN 9 = satisfied, CN 22 = UNSATISFIED
+Frame 933103: CN 9 = satisfied, CN 22 = UNSATISFIED
+
+CN-status summary:
+------------------------------------------------------------
+CN 9: UNSATISFIED in 3 frames, satisfied in 4 frames
+CN 22: UNSATISFIED in 4 frames, satisfied in 3 frames
+
+============================================================
+
+Dominant pair: (v_22, v_37)
+Connected CNs: [3 21]
+Number of failed frames: 4
+
+Frame-by-frame CN status:
+------------------------------------------------------------
+Frame 527429: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 735780: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 752648: CN 3 = satisfied, CN 21 = UNSATISFIED
+Frame 980789: CN 3 = satisfied, CN 21 = UNSATISFIED
+
+CN-status summary:
+------------------------------------------------------------
+CN 3: UNSATISFIED in 0 frames, satisfied in 4 frames
+CN 21: UNSATISFIED in 4 frames, satisfied in 0 frames
+
+============================================================
+
