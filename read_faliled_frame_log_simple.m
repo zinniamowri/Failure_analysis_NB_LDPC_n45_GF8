@@ -117,10 +117,10 @@ if isempty(representativeIndex)
 else
     entry = S.fail_log(representativeIndex);
 
-    fprintf(fid, 'Representative generated frame : %d\n', entry.frame);
+    fprintf(fid, 'frame number: %d\n', entry.frame);
     fprintf(fid, 'Final erroneous VNs            : %s\n', ...
         vectorToString(entry.err_pos));
-    fprintf(fid, 'True symbols                   : %s\n', ...
+    fprintf(fid, 'Transmitted symbols            : %s\n', ...
         vectorToString(entry.true_err_symbols));
     fprintf(fid, 'Decoded symbols                : %s\n', ...
     vectorToString(entry.decoded_err_symbols));
@@ -216,8 +216,8 @@ for g = 1:numel(uniqueSignatures)
     fprintf(fid, '%s\n', repmat('-', 1, 40));
 
     fprintf(fid, 'Number of occurrences     : %d\n', patternCount(g));
-    fprintf(fid, 'Representative log index  : %d\n', representativeIndex);
-    fprintf(fid, 'Generated frame number    : %d\n', entry.frame);
+    %fprintf(fid, 'Representative log index  : %d\n', representativeIndex);
+    %fprintf(fid, 'Generated frame number    : %d\n', entry.frame);
 
     fprintf(fid, 'Final erroneous VNs       : %s\n', ...
         vectorToString(entry.err_pos));
@@ -238,8 +238,8 @@ for g = 1:numel(uniqueSignatures)
         generatedFrames(j) = S.fail_log(indices(j)).frame;
     end
 
-    fprintf(fid, 'Generated frame numbers   : %s\n', ...
-        vectorToString(generatedFrames));
+    %fprintf(fid, 'Generated frame numbers   : %s\n', ...
+      %vectorToString(generatedFrames));
 
     %% Print complete decoded frame
     fprintf(fid, '\nComplete decoded frame:\n');
