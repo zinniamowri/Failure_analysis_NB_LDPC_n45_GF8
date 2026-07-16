@@ -19,9 +19,9 @@ Failures with target pair : 55 of 102 (53.92%)
        2 -> 6            7 -> 2          11       20.00%
 4. CHECK-NODE CALCULATION
 -------------------------------------------------------
-Representative generated frame : 4900
+frame number: 4900
 Final erroneous VNs            : [26,31]
-True symbols                   : [2,7]
+Transmitted symbols            : [2,7]
 Decoded symbols                : [1,3]
 Unsatisfied CN                 : [9]
 
@@ -55,13 +55,10 @@ CN 22:
 Pattern 1
 ----------------------------------------
 Number of occurrences     : 17
-Representative log index  : 1
-Generated frame number    : 4900
 Final erroneous VNs       : [26,31]
 True symbols at errors    : [2,7]
 Decoded symbols at errors : [1,3]
 Unsatisfied CNs           : [9]
-Generated frame numbers   : [4900,7820,51644,74305,81757,120554,196966,294752,336288,364576,367520,419173,475734,532217,533822,544562,591538]
 
 Complete decoded frame:
   2   5   7   0   4   6   2   4   1   2   1   4   4   4   0
@@ -71,13 +68,10 @@ Complete decoded frame:
 Pattern 2
 ----------------------------------------
 Number of occurrences     : 16
-Representative log index  : 3
-Generated frame number    : 35180
 Final erroneous VNs       : [26,31]
 True symbols at errors    : [2,7]
 Decoded symbols at errors : [1,6]
 Unsatisfied CNs           : [22]
-Generated frame numbers   : [35180,58444,62470,149543,264348,311137,357714,510003,511597,734883,737026,888093,906800,910643,936668,954065]
 
 Complete decoded frame:
   2   5   7   0   4   6   2   4   1   2   1   4   4   4   0
@@ -87,13 +81,10 @@ Complete decoded frame:
 Pattern 3
 ----------------------------------------
 Number of occurrences     : 24
-Representative log index  : 4
-Generated frame number    : 40335
 Final erroneous VNs       : [22,37]
 True symbols at errors    : [4,0]
 Decoded symbols at errors : [5,4]
 Unsatisfied CNs           : [21]
-Generated frame numbers   : [40335,134716,137598,152318,172801,266420,315696,388636,419914,470104,507604,581565,718065,734533,771135,778679,803053,839554,845706,912381,926715,927277,929641,982956]
 
 Complete decoded frame:
   2   5   7   0   4   6   2   4   1   2   1   4   4   4   0
@@ -103,13 +94,10 @@ Complete decoded frame:
 Pattern 4
 ----------------------------------------
 Number of occurrences     : 11
-Representative log index  : 5
-Generated frame number    : 49390
 Final erroneous VNs       : [26,31]
 True symbols at errors    : [2,7]
 Decoded symbols at errors : [6,2]
 Unsatisfied CNs           : [22]
-Generated frame numbers   : [49390,65470,74711,142716,259208,477286,548962,593820,775236,797718,840330]
 
 Complete decoded frame:
   2   5   7   0   4   6   2   4   1   2   1   4   4   4   0
@@ -119,13 +107,10 @@ Complete decoded frame:
 Pattern 5
 ----------------------------------------
 Number of occurrences     : 9
-Representative log index  : 13
-Generated frame number    : 106515
 Final erroneous VNs       : [22,37]
 True symbols at errors    : [4,0]
 Decoded symbols at errors : [2,1]
 Unsatisfied CNs           : [3]
-Generated frame numbers   : [106515,244623,372250,658349,693082,738205,747832,891255,983009]
 
 Complete decoded frame:
   2   5   7   0   4   6   2   4   1   2   1   4   4   4   0
@@ -135,13 +120,10 @@ Complete decoded frame:
 Pattern 6
 ----------------------------------------
 Number of occurrences     : 11
-Representative log index  : 14
-Generated frame number    : 107523
 Final erroneous VNs       : [26,31]
 True symbols at errors    : [2,7]
 Decoded symbols at errors : [3,2]
 Unsatisfied CNs           : [9]
-Generated frame numbers   : [107523,237508,312209,367191,424587,461521,505262,582371,665983,671473,834043]
 
 Complete decoded frame:
   2   5   7   0   4   6   2   4   1   2   1   4   4   4   0
@@ -151,13 +133,10 @@ Complete decoded frame:
 Pattern 7
 ----------------------------------------
 Number of occurrences     : 1
-Representative log index  : 23
-Generated frame number    : 198875
 Final erroneous VNs       : [22,37]
 True symbols at errors    : [4,0]
 Decoded symbols at errors : [1,4]
 Unsatisfied CNs           : [3]
-Generated frame numbers   : [198875]
 
 Complete decoded frame:
   2   5   7   0   4   6   2   4   1   2   1   4   4   4   0
@@ -167,13 +146,10 @@ Complete decoded frame:
 Pattern 8
 ----------------------------------------
 Number of occurrences     : 10
-Representative log index  : 39
-Generated frame number    : 379819
 Final erroneous VNs       : [22,37]
 True symbols at errors    : [4,0]
 Decoded symbols at errors : [0,6]
 Unsatisfied CNs           : [21]
-Generated frame numbers   : [379819,514663,534201,640459,662489,700573,727299,743595,866533,957193]
 
 Complete decoded frame:
   2   5   7   0   4   6   2   4   1   2   1   4   4   4   0
@@ -183,13 +159,10 @@ Complete decoded frame:
 Pattern 9
 ----------------------------------------
 Number of occurrences     : 2
-Representative log index  : 48
-Generated frame number    : 493760
 Final erroneous VNs       : [10,28,29]
 True symbols at errors    : [2,5,6]
 Decoded symbols at errors : [0,4,5]
 Unsatisfied CNs           : [6]
-Generated frame numbers   : [493760,493964]
 
 Complete decoded frame:
   2   5   7   0   4   6   2   4   1   0   1   4   4   4   0
@@ -199,13 +172,10 @@ Complete decoded frame:
 Pattern 10
 ----------------------------------------
 Number of occurrences     : 1
-Representative log index  : 82
-Generated frame number    : 793817
 Final erroneous VNs       : [10,28,29]
 True symbols at errors    : [2,5,6]
 Decoded symbols at errors : [6,0,2]
 Unsatisfied CNs           : [5]
-Generated frame numbers   : [793817]
 
 Complete decoded frame:
   2   5   7   0   4   6   2   4   1   6   1   4   4   4   0
